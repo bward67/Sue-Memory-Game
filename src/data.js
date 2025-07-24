@@ -9,6 +9,8 @@ const data = [
   { name: "Tubby Time Cole", image: "ColeInTub.jpg" },
   { name: "Cupid Cole", image: "ColeKissingCousin.jpg" },
   { name: "Cheeky Cole", image: "ColeTongueOut.jpg" },
+  { name: "Executive Cole", image: "cole-office.jpg" },
+  { name: "Holiday Cole", image: "cole-holiday.jpg" },
 ];
 
 export default data;
